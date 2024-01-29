@@ -1,4 +1,4 @@
 List=['Python','Java']
 for i in List:
-    i.upper()
+    i=i.upper()
 print(List)
